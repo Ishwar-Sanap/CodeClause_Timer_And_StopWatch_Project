@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.io.*;
 import java.text.DecimalFormat;
 
+//ActionListner Interface.
 public class StopWatch extends JFrame implements ActionListener
 {
 	Timer t;
